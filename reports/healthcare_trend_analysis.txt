@@ -1,0 +1,26 @@
+======================================================================
+Healthcare Trend Analysis
+======================================================================
+
+Dataset Summary
+----------------------------------------
+Number of Countries : 92
+Average Stress Score: 58.29
+Highest Stress Score: 87.00
+Lowest Stress Score : 36.00
+
+Trend Analysis
+----------------------------------------
+This dataset contains healthcare indicators for a single year (2026).
+Because historical data is unavailable, long-term healthcare trends cannot be calculated.
+
+The following analyses require multi-year data:
+• Countries with increasing healthcare pressure
+• Countries showing recovery
+• Seasonal healthcare event patterns
+• Long-term healthcare reporting trends
+
+Future Recommendation
+----------------------------------------
+Collect healthcare data across multiple years (for example, 2022–2026) to enable trend analysis.
+A time-series dataset would allow forecasting, seasonal analysis, and monitoring of healthcare system changes over time.

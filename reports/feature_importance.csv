@@ -1,0 +1,37 @@
+Rank,Feature,Importance
+1,youth_mh_crisis_score,0.37277698863057795
+2,covid_mh_increase_pct,0.26751684663550385
+3,mental_health_burden,0.09216331905840419
+4,mh_budget_pct_health,0.08238564298167517
+5,mh_system_score,0.05474539205159324
+6,spending_efficiency,0.033316530344401664
+7,gdp_per_capita_usd,0.027249678279652363
+8,treatment_gap_pct,0.019441760245674018
+9,healthcare_capacity,0.017735251550341606
+10,mh_spend_usd_per_capita,0.008542704547324663
+11,psychiatrists_per_million,0.006060517941026511
+12,psychiatrists_per100k,0.005161679477970504
+13,suicide_rate_per100k,0.003308764531505703
+14,mh_investment_gap,0.0019078421176790693
+15,internet_penetration_pct,0.001797719145433206
+16,digital_exposure,0.0012953606768051995
+17,social_media_hours_daily,0.0006990012744442987
+18,total_affected_millions,0.0005878104139593437
+19,depression_pct,0.000544935859512769
+20,depression_anxiety_comorbidity_est_pct,0.00047189512239283914
+21,population_millions,0.0004694750336026224
+22,anxiety_pct,0.0004427569700598835
+23,income_group_Low,0.0004256095095747875
+24,income_group_Lower-Middle,0.00025455506389425247
+25,region_Europe,0.00020825952915767203
+26,income_group_code,0.0001496993557838006
+27,social_media_mental_health_risk_Moderate (1.5-2.5h),7.128895187010147e-05
+28,mh_policy_exists,5.8564951627483713e-05
+29,region_Americas,3.8046660501425866e-05
+30,region_W. Pacific,3.8023289473058105e-05
+31,social_media_mental_health_risk_Low (<1.5h),3.4183077533393715e-05
+32,region_E. Med,3.302856128964141e-05
+33,mh_law_exists,2.102100215699652e-05
+34,region_S-E Asia,1.641379519001021e-05
+35,social_media_mental_health_risk_Very High (>3.5h),1.6014952733396325e-05
+36,income_group_Upper-Middle,1.3418409673194561e-05

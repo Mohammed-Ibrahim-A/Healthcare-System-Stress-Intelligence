@@ -1,0 +1,93 @@
+Country,Predicted_Healthcare_Stress_Score,Predicted_Stress_Category
+Malawi,83.79,High Stress
+Mozambique,84.11,High Stress
+Ethiopia,83.11,High Stress
+Zimbabwe,82.44,High Stress
+Tanzania,81.97,High Stress
+Uganda,81.02,High Stress
+Lesotho,79.91,High Stress
+Eswatini,78.88,High Stress
+Ukraine,70.11,High Stress
+Nigeria,76.74,High Stress
+North Korea,75.91,High Stress
+Ghana,75.8,High Stress
+Kenya,72.24,High Stress
+Iraq,71.82,High Stress
+Bangladesh,73.36,High Stress
+Nepal,72.98,High Stress
+Pakistan,71.71,High Stress
+Brazil,70.34,High Stress
+Venezuela,70.11,High Stress
+Myanmar,69.89,Medium Stress
+Bolivia,69.64,High Stress
+South Africa,70.65,High Stress
+Cambodia,69.89,Medium Stress
+Morocco,69.57,Medium Stress
+Lebanon,68.57,Medium Stress
+Papua New Guinea,67.76,Medium Stress
+India,66.15,Medium Stress
+Solomon Islands,67.84,Medium Stress
+Tunisia,65.55,Medium Stress
+Indonesia,66.08,Medium Stress
+Egypt,65.4,Medium Stress
+Iran,64.51,Medium Stress
+Philippines,63.97,Medium Stress
+Ecuador,63.97,Medium Stress
+Sri Lanka,64.27,Medium Stress
+Peru,62.6,Medium Stress
+Jordan,63.56,Medium Stress
+Colombia,61.33,Medium Stress
+Vietnam,62.68,Medium Stress
+Russia,58.62,Medium Stress
+Uzbekistan,62.41,Medium Stress
+Mexico,60.37,Medium Stress
+Mongolia,60.64,Medium Stress
+Thailand,59.06,Medium Stress
+Fiji,61.87,Medium Stress
+Georgia,57.88,Medium Stress
+Azerbaijan,58.03,Medium Stress
+Argentina,56.67,Medium Stress
+Armenia,57.32,Medium Stress
+Kazakhstan,57.52,Medium Stress
+Malaysia,55.12,Medium Stress
+Chile,53.77,Medium Stress
+Turkey,55.33,Medium Stress
+Costa Rica,53.85,Medium Stress
+China,53.91,Medium Stress
+Romania,53.21,Medium Stress
+Hungary,51.32,Medium Stress
+Portugal,51.28,Medium Stress
+Saudi Arabia,52.22,Medium Stress
+United States,52.88,Medium Stress
+Serbia,52.08,Medium Stress
+Poland,50.64,Medium Stress
+Greece,50.86,Medium Stress
+Lithuania,48.1,Medium Stress
+Estonia,46.76,Medium Stress
+Israel,47.04,Medium Stress
+Cuba,46.58,Medium Stress
+Slovenia,46.04,Medium Stress
+Czech Republic,46.02,Medium Stress
+South Korea,44.32,Medium Stress
+New Zealand,44.56,Medium Stress
+Hong Kong,43.96,Medium Stress
+Australia,46.63,Medium Stress
+France,43.49,Medium Stress
+UAE,44.09,Medium Stress
+Belgium,42.78,Medium Stress
+Taiwan,43.14,Medium Stress
+Canada,43.15,Medium Stress
+United Kingdom,43.59,Medium Stress
+Italy,42.86,Medium Stress
+Japan,42.37,Medium Stress
+Ireland,42.55,Medium Stress
+Finland,40.87,Medium Stress
+Spain,42.91,Medium Stress
+Austria,40.84,Medium Stress
+Germany,39.86,Medium Stress
+Netherlands,39.58,Low Stress
+Sweden,38.87,Low Stress
+Denmark,38.3,Low Stress
+Singapore,39.59,Low Stress
+Switzerland,37.16,Low Stress
+Norway,36.7,Low Stress

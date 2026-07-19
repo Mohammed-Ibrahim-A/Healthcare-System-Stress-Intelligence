@@ -1,0 +1,41 @@
+======================================================================
+Healthcare Business & Policy Insights
+======================================================================
+
+Average Healthcare Stress Score : 58.29
+Highest Healthcare Stress Score : 87.00
+Lowest Healthcare Stress Score  : 36.00
+
+Stress Category Distribution
+----------------------------------------
+Medium Stress  : 64
+High Stress    : 22
+Low Stress     : 6
+
+Top 10 Highest Stress Countries
+----------------------------------------
+Country names are not available in the processed dataset.
+
+Top Factors Associated with Healthcare Stress
+----------------------------------------
+youth_mh_crisis_score               0.980
+covid_mh_increase_pct               0.966
+mental_health_burden                0.939
+treatment_gap_pct                   0.934
+income_group_code                   0.905
+mh_system_score                     0.878
+mh_budget_pct_health                0.847
+internet_penetration_pct            0.834
+gdp_per_capita_usd                  0.801
+psychiatrists_per100k               0.739
+
+Business & Policy Recommendations
+----------------------------------------
+• Increase investment in mental healthcare services.
+• Reduce treatment gaps through awareness programmes.
+• Expand psychiatrist and psychologist availability.
+• Improve youth mental health programmes.
+• Strengthen digital mental healthcare platforms.
+• Prioritize countries with consistently high stress scores.
+• Allocate healthcare resources based on identified risk factors.
+• Continuously monitor healthcare indicators for early intervention.
