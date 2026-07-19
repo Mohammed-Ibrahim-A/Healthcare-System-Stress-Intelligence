@@ -329,8 +329,7 @@ After execution, the project automatically generates processed datasets, trained
 ---
 # 👨‍💻 Author
 
-**Mohammed Ibrahim A**
-
+**Mohammed Ibrahim A**, 
 Electronics and Instrumentation Engineering,
 Velammal Engineering College, Chennai
 GitHub: https://github.com/Mohammed-Ibrahim-A
