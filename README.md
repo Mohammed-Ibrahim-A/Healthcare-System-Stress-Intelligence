@@ -92,4 +92,5 @@ Reports & Insights
 ## Author
 
 **Mohammed Ibrahim A**    
-Velammal Engineering College, Chennai
+Student at Velammal Engineering College
+Chennai
