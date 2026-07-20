@@ -1,8 +1,8 @@
-# 🏥 Healthcare System Stress Intelligence
+# Healthcare System Stress Intelligence
 
 Healthcare System Stress Intelligence is a Machine Learning project that analyzes global mental health and healthcare data to predict healthcare stress levels. The project uses data preprocessing, visualization, regression, classification, and clustering to generate insights that support healthcare decision-making.
 
-## ✨ Features
+## Features
 
 - Data Preprocessing
 - Feature Engineering
@@ -14,7 +14,7 @@ Healthcare System Stress Intelligence is a Machine Learning project that analyze
 - Business Insights
 - Report Generation
 
-## 🛠️ Technologies
+## Technologies
 
 - Python
 - Pandas
@@ -23,7 +23,7 @@ Healthcare System Stress Intelligence is a Machine Learning project that analyze
 - Matplotlib
 - Seaborn
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Healthcare-System-Stress-Intelligence/
@@ -37,7 +37,7 @@ Healthcare-System-Stress-Intelligence/
 └── run_all.py
 ```
 
-## 📁 Folder Description
+## Folder Description
 
 - **data/** – Contains raw and processed datasets.
 - **src/** – Contains all Python scripts for preprocessing, training, prediction, and analysis.
@@ -47,7 +47,7 @@ Healthcare-System-Stress-Intelligence/
 - **requirements/** – Contains project dependencies.
 - **docs/** – Reserved for project documentation.
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/Mohammed-Ibrahim-A/Healthcare-System-Stress-Intelligence.git
@@ -56,7 +56,7 @@ pip install -r requirements/requirements.txt
 python run_all.py
 ```
 
-## 🔄 Workflow
+## Workflow
 
 ```
 Dataset
@@ -74,7 +74,7 @@ Clustering
 Reports & Insights
 ```
 
-## 📊 Outputs
+## Outputs
 
 - Healthcare Stress Score Prediction
 - Stress Category Classification
@@ -82,15 +82,14 @@ Reports & Insights
 - Feature Importance Analysis
 - Business Insight Reports
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Real-time healthcare data
 - Interactive dashboard
 - Explainable AI
 - Cloud deployment
 
-## 👨‍💻 Author
+## Author
 
-**Mohammed Ibrahim A**  
-B.E. Electronics and Instrumentation Engineering  
-Velammal Engineering College
+**Mohammed Ibrahim A**    
+Velammal Engineering College, Chennai
