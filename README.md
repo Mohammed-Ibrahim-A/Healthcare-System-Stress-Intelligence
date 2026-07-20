@@ -81,9 +81,3 @@ Reports & Insights
 - Regional Clustering
 - Feature Importance Analysis
 - Business Insight Reports
-
-## Author
-
-**Mohammed Ibrahim A**    
-Student at Velammal Engineering College,
-Chennai
