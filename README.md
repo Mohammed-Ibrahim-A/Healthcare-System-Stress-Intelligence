@@ -82,15 +82,8 @@ Reports & Insights
 - Feature Importance Analysis
 - Business Insight Reports
 
-## Future Improvements
-
-- Real-time healthcare data
-- Interactive dashboard
-- Explainable AI
-- Cloud deployment
-
 ## Author
 
 **Mohammed Ibrahim A**    
-Student at Velammal Engineering College
+Student at Velammal Engineering College,
 Chennai
